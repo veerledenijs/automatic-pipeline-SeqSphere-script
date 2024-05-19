@@ -59,7 +59,7 @@
                         <trimmingAvgQuality>30</trimmingAvgQuality>
                         <trimmingWindowSize>20</trimmingWindowSize>
                         <useDownsampling>true</useDownsampling>
-                        <useQualityTrimming>true</useQualityTrimming>
+                        <useQualityTrimming>false</useQualityTrimming>
                         <useReadPairs>false</useReadPairs>
                     </AssemblerParameter>
                 </PlatformAssembler>
